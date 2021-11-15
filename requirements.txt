@@ -1,5 +1,5 @@
 requests
-pip==20.2.3
+pip==21.1
 numpy==1.19.1
 opencv-python==4.4.0.42
 opencv-python-headless==4.5.1.48

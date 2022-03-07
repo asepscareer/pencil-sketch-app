@@ -1,6 +1,6 @@
 requests
 pip==21.1
-numpy==1.22.2
+numpy==1.21.5
 opencv-python==4.4.0.42
 opencv-python-headless==4.5.1.48
 streamlit==0.65.2
